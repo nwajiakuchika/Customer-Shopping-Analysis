@@ -32,6 +32,7 @@ prediction score,suggesting that customer spending may be influence by factors n
     - Shipping Preference Analysis
       **Conclusion**
       
+      
       This analysis provide valuable insight to customer purchase behavior and shopping trends.
       The findings can help businesses better understand their customers, optimize marketing
       strategies,and improve decision making
