@@ -30,8 +30,8 @@ prediction score,suggesting that customer spending may be influence by factors n
     - Customer Review Ratings
     - Discription Status Analysis
     - Shipping Preference Analysis
+    - 
       **Conclusion**
-      
       
       This analysis provide valuable insight to customer purchase behavior and shopping trends.
       The findings can help businesses better understand their customers, optimize marketing
