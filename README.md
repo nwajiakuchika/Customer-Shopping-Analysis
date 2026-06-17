@@ -1,6 +1,6 @@
-**Shopping Trends And Customer Behaivior Analysis**
+#Shopping Trends And Customer Behaivior Analysis#
 
-*Overview*
+##Overview##
 
 THis project analyzed customer shopping behaivior using sales data,including customer demographics,
 purchase amount,season,and product categories.Data visualization was used to identify purchasing trends
