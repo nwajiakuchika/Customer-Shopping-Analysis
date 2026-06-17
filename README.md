@@ -8,8 +8,9 @@ and customer patterns.
 A machine learning model was develop to predict purchase amount.However,the model achieved a low
 prediction score,suggesting that customer spending may be influence by factors not included in dataset.
 **Project Objectives**
--Analyze customer demographics and spending behavior
--Identify popular product categories and item
+
+- Analyze customer demographics and spending behavior
+- Identify popular product categories and item
 
 
 
