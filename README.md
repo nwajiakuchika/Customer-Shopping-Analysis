@@ -11,6 +11,9 @@ prediction score,suggesting that customer spending may be influence by factors n
 
 - Analyze customer demographics and spending behavior
 - Identify popular product categories and item
+- Examine seasonal purchase trends
+- Explore the impact of discount and professional codes
+- Investigate customers ratings and distribution patterns
 
 
 
