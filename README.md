@@ -14,6 +14,26 @@ prediction score,suggesting that customer spending may be influence by factors n
 - Examine seasonal purchase trends
 - Explore the impact of discount and professional codes
 - Investigate customers ratings and distribution patterns
+ **Tools And Liberies**
+  - Jupiter notebook
+  - Python
+  - Matplotlib
+  - Pandas
+  - Seaborn
+  - Numpy
+    **Key Areas of Analysis**
+    - Customer Age and Gender Distribution
+    - Product Category Performance
+    - Purchase Amount Trends
+    - Seasonal Shooping Patterns
+    - Discount and Promotional Usage
+    - Customer Review Ratings
+    - Discription Status Analysis
+    - Shipping Preference Analysis
+      **Conclusion**
+      This analysis provide valuable insight to customer purchase behavior and shopping trends.
+      The findings can help businesses better understand their customers, optimize marketing
+      strategies,and improve decision making
 
 
 
