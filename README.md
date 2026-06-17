@@ -7,9 +7,9 @@ purchase amount,season,and product categories.Data visualization was used to ide
 and customer patterns.
 A machine learning model was develop to predict purchase amount.However,the model achieved a low
 prediction score,suggesting that customer spending may be influence by factors not included in dataset.
-**Data Description**
-|Feature |Description|
-|Customer ID |Unique Customer Identifier|
-|Age |Customer Age|
-|Gender |Customer gender|
-|Items Purchased|Purchse product|
+**Project Objectives**
+-Analyze customer demographics and spending behavior
+-Identify popular product categories and item
+
+
+
