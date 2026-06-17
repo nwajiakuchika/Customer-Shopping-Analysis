@@ -1,4 +1,5 @@
 **Shopping Trends And Customer Behaivior Analysis**
+
 *Overview*
 
 THis project analyzed customer shopping behaivior using sales data,including customer demographics,
